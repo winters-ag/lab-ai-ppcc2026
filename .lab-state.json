@@ -14,5 +14,8 @@
   "testEnvUrl": "https://wm-test-3326.crm.dynamics.com",
   "testEnvId": "fd612589-c0da-e1f7-b0c0-c65302adea04",
   "testOrgId": "aca0229c-98d0-f111-be87-6045bd06d92e",
-  "testProfile": "test"
+  "testProfile": "test",
+  "packageDeployerScaffolded": true,
+  "dataModelScaffolded": true,
+  "columnsScaffolded": true
 }
