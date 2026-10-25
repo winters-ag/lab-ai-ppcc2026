@@ -43,5 +43,6 @@
   "barcodeScanUiScaffolded": true,
   "configDataDirectory": "/workspaces/lab-ai-ppcc2026/src/Packages.Main/Data",
   "configDataSchemaPath": "/workspaces/lab-ai-ppcc2026/src/Packages.Main/Data/data_schema.xml",
-  "configDataFilePath": "/workspaces/lab-ai-ppcc2026/src/Packages.Main/Data/data.xml"
+  "configDataFilePath": "/workspaces/lab-ai-ppcc2026/src/Packages.Main/Data/data.xml",
+  "testsUiScaffolded": true
 }
