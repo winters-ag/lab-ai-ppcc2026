@@ -20,5 +20,6 @@
   "columnsScaffolded": true,
   "appId": "541fbfc1-c8fa-4b2e-b88c-a62d9fcb4aad",
   "pluginsScaffolded": true,
-  "logicSolutionScaffolded": true
+  "logicSolutionScaffolded": true,
+  "securityScaffolded": true
 }
