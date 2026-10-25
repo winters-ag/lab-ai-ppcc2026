@@ -40,5 +40,8 @@
   "productDataSourceScaffolded": true,
   "openFoodFactsConnectionId": "242f0224-2396-43b7-bf16-eadc3bbdd17f",
   "connectorDataSourceScaffolded": true,
-  "barcodeScanUiScaffolded": true
+  "barcodeScanUiScaffolded": true,
+  "configDataDirectory": "/workspaces/lab-ai-ppcc2026/src/Packages.Main/Data",
+  "configDataSchemaPath": "/workspaces/lab-ai-ppcc2026/src/Packages.Main/Data/data_schema.xml",
+  "configDataFilePath": "/workspaces/lab-ai-ppcc2026/src/Packages.Main/Data/data.xml"
 }
